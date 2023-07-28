@@ -2,8 +2,6 @@
 The HR dashboard allows Human Resource teams to track, analyze and report on HR KPIs. Built using SQL and PowerBI.
 # HR-Dashboard-MySQL-PowerBI
 
-image
-
 ![HR Dashboard Image](https://github.com/cherchub/HR-Dashboard-using-SQL-and-PowerBI/assets/100081376/7de6c20e-bb39-4beb-9bb2-b8e50acc35a2)
 
 ## Data Used
